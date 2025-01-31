@@ -11,13 +11,13 @@
 
 # Installation 
 
-1. Clone all files from git "https://github.com/mayusuf/oscarApi" in the server
+1. Clone all files from git "https://github.com/mayusuf/backpocket" in the server
 
 2. run "composer install"
 
-3. Import sql file "oscar_test.sql" in the Maria DB from sql folder
+3. Import sql file "backpocket.sql" in the Maria DB from sql folder
 
-4. Provide Database connection in the file ".env"
+4. Provide Database connection in the file ".env". Before create a .env file
 
 5. run the app from the public folder. i.e. php -S 127.0.0.1:8080
 
@@ -32,7 +32,7 @@
  
 ## Read files from uploads folder and save in DB
 
-Url : /api/oscar_read
+Url : /api/read
 Method : GET
 
 ## Get Car list

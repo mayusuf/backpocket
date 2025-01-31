@@ -15,7 +15,7 @@ $dotenv->load();
 
 $app = new Application($srcDirectory);
 
-$app->router->get('/api/oscar_read', [new readCarsController(),'readCarsFromFile']);
+$app->router->get('/api/read', [new readCarsController(),'readCarsFromFile']);
 $app->router->get('/api/cars', [new CarController(),'getCars']);
 $app->router->get('/api/car', [new CarController(),'getSingleCar']);
 $app->router->post('/api/car', [new CarController(),'create']);
