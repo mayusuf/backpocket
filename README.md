@@ -1,3 +1,6 @@
+Back Pocket is very lightweight, esay to develop, implement, understandable and customizable PHP framework for REST API. Wanna learn 
+Raw PHP and REST API then it gives you good opperntunity to begin.
+
 # Technologies
 
 1. PHP 8
