@@ -1,0 +1,12 @@
+[
+{"distance":"160402","car_year":"2015","location":"Ede West","fuel_type":"Diesel","model":"Transit Connect","doors":"3","transmission":"Manual","seats":"3","brand":"Ford"},
+{"distance":"1","car_year":"2014","location":"Ede West","fuel_type":"Diesel","model":"Trailer","doors":"0","transmission":"Manual","seats":"0","brand":"Witteveen"},
+{"distance":"116577","car_year":"2011","location":"Ede West","fuel_type":"Petrol","model":"Fabia","doors":"5","transmission":"Manual","seats":"5","brand":"Skoda"},
+{"distance":"137431","car_year":"2007","location":"Ede West","fuel_type":"Petrol","model":"Golf Plus","doors":"0","transmission":"Manual","seats":"5","brand":"VW"},
+{"distance":"81595","car_year":"2013","location":"Scherpenzeel","fuel_type":"Petrol","model":"Up!","doors":"4","transmission":"Manual","seats":"4","brand":"VW"},
+{"distance":"120609","car_year":"2013","location":"Scherpenzeel","fuel_type":"Petrol","model":"Up!","doors":"4","transmission":"Manual","seats":"4","brand":"VW"},
+{"distance":"132395","car_year":"2013","location":"Scherpenzeel","fuel_type":"Petrol","model":"Up!","doors":"4","transmission":"Manual","seats":"4","brand":"VW"},
+{"distance":"191553","car_year":"2009","location":"Scherpenzeel","fuel_type":"Diesel","model":"Transporter","doors":"4","transmission":"Manual","seats":"2","brand":"VW"},
+{"distance":"199808","car_year":"2013","location":"Scherpenzeel","fuel_type":"Diesel","model":"Citan","doors":"4","transmission":"Manual","seats":"2","brand":"Mercedes Benz"},
+{"distance":"52175","car_year":"2015","location":"Holten","fuel_type":"Petrol","model":"108","doors":"5","transmission":"Manual","seats":"4","brand":"Peugeot"}
+]

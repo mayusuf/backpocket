@@ -1,0 +1,12 @@
+[
+{"inside_height":"","inside_length":"","car_year":"2015","location":"Rønde","inside_width":"","fuel_type":"Petrol","plate_no":"AZ 49 013","model":"Clio","doors":"5","transmission":"Manual","seats":"5","brand":"Renault"},
+{"inside_height":"","inside_length":"2.04","car_year":"2006","location":"Rønde","inside_width":"1.28","fuel_type":"","plate_no":"MS 66 29","model":"Trailer","doors":"","transmission":"","seats":"","brand":"Brenderup"},
+{"inside_height":"","inside_length":"2.53","car_year":"2005","location":"Rønde","inside_width":"1.75","fuel_type":"","plate_no":"MB 74 70","model":"Trailer","doors":"","transmission":"","seats":"","brand":"Brenderup"},
+{"inside_height":"2.15","inside_length":"4.15","car_year":"2014","location":"Rønde","inside_width":"2.18","fuel_type":"Diesel","plate_no":"AK 70 894","model":"Jumper","doors":"2","transmission":"Manual","seats":"3","brand":"Citroën"},
+{"inside_height":"","inside_length":"","car_year":"2019","location":"Rønde","inside_width":"","fuel_type":"Petrol","plate_no":"CH 58 961","model":"Citigo","doors":"5","transmission":"Manual","seats":"5","brand":"Skoda"},
+{"inside_height":"2.15","inside_length":"4.30","car_year":"2018","location":"Rønde","inside_width":"2.18","fuel_type":"Diesel","plate_no":"CK 84 433","model":"Boxer","doors":"2","transmission":"Manual","seats":"3","brand":"Peugeot"},
+{"inside_height":"","inside_length":"","car_year":"2017","location":"Rønde","inside_width":"","fuel_type":"Petrol","plate_no":"CK 49 059","model":"Focus","doors":"5","transmission":"Manual","seats":"5","brand":"Ford"},
+{"inside_height":"0.80","inside_length":"2.04","car_year":"2017","location":"Rønde","inside_width":"1.28","fuel_type":"Petrol","plate_no":"BM 44 34","model":"Trailer","doors":"","transmission":"Manual","seats":"","brand":"Brenderup"},
+{"inside_height":"1.93","inside_length":"3.12","car_year":"2017","location":"Rønde","inside_width":"1.87","fuel_type":"Diesel","plate_no":"BB 80 307","model":"Jumper","doors":"5","transmission":"Manual","seats":"3","brand":"Citroën"},
+{"inside_height":"","inside_length":"","car_year":"2011","location":"Rønde","inside_width":"","fuel_type":"Petrol","plate_no":"EF 28 411","model":"Panda","doors":"5","transmission":"Manual","seats":"4","Car Brand":"Fiat"}
+]
